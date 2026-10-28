@@ -1,0 +1,6 @@
+[submodule "diff-gaussian-rasterization/third_party/glm"]
+	path = gvraster/third_party/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "diff-gaussian-rasterization/third_party/cuBQL"]
+	path = gvraster/third_party/cuBQL
+	url = https://github.com/ingowald/cuBQL.git
