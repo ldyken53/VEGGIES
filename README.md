@@ -1,5 +1,7 @@
 # VEGGIES
 
+This repo holds the code for ["Explicit 3D Gaussian Models for Fast, Mesh-Free Compression of Structured and Unstructured Volumes"](https://arxiv.org/abs/2607.01164)
+
 Volume Encoding Gaussians with Geometry-Integration and Explicit Sampling: compresses a volume
 into a set of 3D Gaussians that can be sampled directly at any point, with no decompression step.
 Each Gaussian stores a mean, scale, rotation, value and weight (12 floats, 48 bytes), and the
